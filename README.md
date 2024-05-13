@@ -8,7 +8,7 @@ Imagine we are the member of a Retail/Telcos company and we wants to fuel its gr
 - Part 6: [A/B Testing](https://github.com/ToanToan110/A-B-Testing)
 
 # About this Project
-> Suppose we've run a series of promotional campaigns across multiple customer segments and noticed a difference in purchases.
+Suppose we've run a series of promotional campaigns across multiple customer segments and noticed a difference in purchases.
 
 Does this difference occur by chance? If not, what factors influence this difference?
 
