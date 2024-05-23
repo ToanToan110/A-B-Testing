@@ -13,3 +13,20 @@ Suppose we've run a series of promotional campaigns across multiple customer seg
 Does this difference occur by chance? If not, what factors influence this difference?
 
 => We need to Perform A/B Testing to test the above hypothesis
+
+# Prequisites
+Dataset: This notebook use [Marketing Promotion Campaign Uplift Modelling Dataset](https://www.kaggle.com/datasets/davinwijaya/customer-retention) on Kaggle
+
+Reference:
+- https://jmyao17.github.io/Statistics/AB_Tests.html
+- [Top Dev link](https://topdev.vn/blog/ab-testing-la-gi-tai-sao-phai-lam-ab-testing/?utm_source=google&utm_medium=cpc&utm_campaign=topdev&utm_content=performance&gad_source=1&gclid=CjwKCAjwr7ayBhAPEiwA6EIGxJU2LluspsCTgz_p7-lCc63Up8vkORGygLeTQUfGya0zpsAz2NLkvBoCHp8QAvD_BwE)
+- https://towardsdatascience.com/a-b-testing-design-execution-6cf9e27c6559
+
+# Aproach:
+THe A/B testing process follow by this step:
+- Define the problem
+- Hypothesize
+- Collect data and Create variations
+- Rung the test
+- Analyze result
+- Iterate & optimize
