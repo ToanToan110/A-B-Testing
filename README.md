@@ -23,7 +23,7 @@ Reference:
 - https://towardsdatascience.com/a-b-testing-design-execution-6cf9e27c6559
 
 # Aproach:
-THe A/B testing process follow by this step:
+The A/B testing process follow by this step:
 - Define the problem
 - Hypothesize
 - Collect data and Create variations
